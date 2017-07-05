@@ -1,8 +1,10 @@
-//index.php
+*index.php*
 
-'define('WP_USE_THEMES', true);
+'''php
+define('WP_USE_THEMES', true);
 
-require( dirname(__FILE__) . '/wp-blog-header.php');'
+require( dirname(__FILE__) . '/wp-blog-header.php');
+'''
 
 
 
